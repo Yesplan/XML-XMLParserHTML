@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "XMLParserTokenizer",
+	"category" : "XML-Parser-HTML-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"HTMLEntities",
+		"HTMLNameDelimiters",
+		"NonHTMLCodeSectionTags",
+		"NonHTMLSectionTags"
+	],
+	"instvars" : [ ],
+	"name" : "XMLHTMLParserTokenizer",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+This is the driver for SAXHTMLHandler. It uses XMLHTMLElementNester to make bad HTML nest correctly.

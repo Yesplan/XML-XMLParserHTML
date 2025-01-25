@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "SAXHandler",
+	"category" : "XML-Parser-HTML-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SAXHTMLHandler",
+	"type" : "normal"
+}

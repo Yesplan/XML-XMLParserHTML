@@ -1,0 +1,1 @@
+A context for elements containing non-markup code with comments or string literals.

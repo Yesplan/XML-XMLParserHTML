@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "monty 11/18/2014 01:41",
+	"super" : "XMLHTMLNonHTMLSectionContext",
+	"category" : "XML-Parser-HTML-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "XMLHTMLNonHTMLCodeSectionContext",
+	"type" : "normal"
+}

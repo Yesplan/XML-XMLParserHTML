@@ -1,0 +1,3 @@
+accessing
+predefinedEntities
+	^ self htmlEntities
